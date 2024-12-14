@@ -2,6 +2,8 @@ Project Overview:
 
 JetFlavor is a user-friendly food delivery app. The app aims to provide a seamless and enjoyable online food ordering experience for users.
 
+
+![image alt](project.png)
 Key Features:
 
 User Authentication: Secure user login and registration, allowing users to create accounts and manage their profiles.
